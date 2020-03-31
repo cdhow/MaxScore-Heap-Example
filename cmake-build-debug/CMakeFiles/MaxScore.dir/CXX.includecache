@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/caleb/Documents/Uni/MaxScore/PriorityQueue.h
+vector
+-
+stdexcept
+-
+iostream
+-
+
+/home/caleb/Documents/Uni/MaxScore/PriorityQueueMaxDigits.h
+PriorityQueue.h
+/home/caleb/Documents/Uni/MaxScore/PriorityQueue.h
+unordered_map
+-
+
+/home/caleb/Documents/Uni/MaxScore/main.cpp
+iostream
+-
+unordered_map
+-
+fstream
+-
+sstream
+-
+PriorityQueue.h
+/home/caleb/Documents/Uni/MaxScore/PriorityQueue.h
+PriorityQueueMaxDigits.h
+/home/caleb/Documents/Uni/MaxScore/PriorityQueueMaxDigits.h
+
