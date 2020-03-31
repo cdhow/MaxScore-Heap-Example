@@ -1,3 +1,0 @@
-/home/caleb/Documents/Uni/MaxScore/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/caleb/Documents/Uni/MaxScore/cmake-build-debug/CMakeFiles/MaxScore.dir
-/home/caleb/Documents/Uni/MaxScore/cmake-build-debug/CMakeFiles/edit_cache.dir

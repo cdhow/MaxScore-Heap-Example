@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/MaxScore.dir/main.cpp.o CMakeFiles/MaxScore.dir/PriorityQueue.cpp.o CMakeFiles/MaxScore.dir/PriorityQueueMaxDigits.cpp.o  -o MaxScore 
